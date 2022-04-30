@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>data scosdas</title>
+    <link href="/2022/04/29/data-scosdas/"/>
+    <url>/2022/04/29/data-scosdas/</url>
+    
+    <content type="html"><![CDATA[<p><span class="math display">\[_{a}^{b}f(x)+a=b,求a和b的值\]</span></p><p>已知<span class="math inline">\(\int_{a}^{b}f(x)dx=a+b\)</span>,求<span class="math inline">\(a\)</span>和<span class="math inline">\(b\)</span>的值</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2022/04/29/data%20stcuture/"/>
+    <url>/2022/04/29/data%20stcuture/</url>
+    
+    <content type="html"><![CDATA[<h1 id="数据结构题单">数据结构题单</h1><p>[toc]</p><h1 id="数组">数组</h1><h3 id="a-217-53-1-88-350-121-566-118-36-73">A: 217 53 1 88 350 121 566 118 36 73</h3><h3 id="b-136-169-15-75-56-706-119-48-59-240-435-334-238-560">B: 136 169 15 75 56 706 119 48 59 240 435 334 238 560</h3><h3 id="c-325-1151-1588-452-128-454-448">C: 325 1151 1588 452 128 454 448</h3><h1 id="字符串">字符串</h1><h3 id="a-387-383-242">A: 387 383 242</h3><h3 id="b-415-290-763-49-43">B: 415 290 763 49 43</h3><h3 id="c-1427-409-187-5-44-214">C: 1427 409 187 5 44 214</h3><h1 id="链表">链表</h1><h3 id="a-141-21-203-206-83">A: 141 21 203 206 83</h3><h3 id="b-160-82-24-707-25-143">B: 160 82 24 707 25 143</h3><h3 id="c-1634-369-148-138-430">C: 1634 369 148 138 430</h3><h1 id="栈队列">栈/队列</h1><h3 id="a-20-232">A: 20 232</h3><h3 id="b155-1249-1823">B:155 1249 1823</h3><h3 id="c-281-394-739-42-402-456-84-862">C: 281 394 739 42 402 456 84 862</h3><h1 id="树">树</h1><h3 id="a-144-94-145-101-102-104-226-112-700-701-98-653-235">A: 144 94 145 101 102 104 226 112 700 701 98 653 235</h3><h3 id="b-108-105-103-199-113-450-230-173-236-297">B: 108 105 103 199 113 450 230 173 236 297</h3><h3 id="c-124-968">C: 124 968</h3><h1 id="图并查集">图/并查集</h1><h3 id="b-997-1557-841">B: 997 1557 841</h3><h3 id="c-886-787-261-547-990-1319-305-1579-323-1101">C: 886 787 261 547 990 1319 305 1579 323 1101</h3><h1 id="优先队列">优先队列</h1><h3 id="b-215-347-451-973">B: 215 347 451 973</h3><h3 id="c-253-23-378-295-358-759-218">C: 253 23 378 295 358 759 218</h3><h1 id="有序集合">有序集合</h1><h3 id="c-1756-729-1606">C: 1756 729 1606</h3><h1 id="前缀树">前缀树</h1><h3 id="c-1858-212-336-208-211-642">C: 1858 212 336 208 211 642</h3>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2022/04/29/hello-world/"/>
+    <url>/2022/04/29/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
